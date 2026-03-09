@@ -19,8 +19,8 @@ const Contact = () => {
     {
       icon: FaLinkedin,
       label: 'LinkedIn',
-      value: 'linkedin.com/in/deepalirole',
-      href: 'https://linkedin.com/in/deepalirole',
+      value: 'linkedin.com/in/deepali-role-782918249',
+      href: 'https://www.linkedin.com/in/deepali-role-782918249/',
       color: 'text-blue-600'
     }
   ]
